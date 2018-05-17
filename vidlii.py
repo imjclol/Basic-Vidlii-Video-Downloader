@@ -1,5 +1,5 @@
 # Asking for Video Link
-video = input("Inset Video Link: ")
+video = input("Insert Video Link: ")
 
 # Downloads video page
 import urllib.request
